@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function() {
     const pacman = document.getElementById("pacman");
   
